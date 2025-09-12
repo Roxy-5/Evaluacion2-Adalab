@@ -2,12 +2,13 @@
 
 ### 🌍 Evaluación final módulo 2
 
-Descubre el poder de Python
+Extraer Información de la Web y Bases de Datos
 
 ### 🚀 Cómo usar
 
 1. Clona este repositorio.
-2. Ejecuta las celdas de código una a una.
+2. Abre el archivo `.sql` en tu gestor de bases de datos (por ejemplo, MySQL Workbench).
+3. Ejecuta las celdas de código una a una.
 
 ### 🪐 Autor
 
